@@ -1,0 +1,2 @@
+#!/bin/bash
+chown -R vincent:staff . #TODO simper but includes current working directory
